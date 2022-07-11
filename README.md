@@ -1,5 +1,5 @@
 # MoviesApp
-Retrofit, MVVM, Coroutines, LiveData
+Retrofit, MVVM, Coroutines, LiveData 
 
 
 Screenshots:
